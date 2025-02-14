@@ -32,7 +32,7 @@
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
 | [P42862](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | 02.12 |
-| [] |  |  |
+| [B11399](https://www.acmicpc.net/problem/11399) | ATM | 02.14 |
 | [] |  |  |
 
 </div>
