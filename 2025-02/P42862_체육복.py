@@ -1,20 +1,11 @@
 def solution(n, lost, reserve):
-    answer = 0
-
-    lost = [l for l in lost if l not in reserve]
-    reserve = [r for r in reserve if r not in lost]
+    new_reserve = set(reserve) - set(lost)
+    new_lost = set(lost) - set(reserve)
     
-    lost_tmp = sorted(lost).copy()
+    for i in new_reserve:
+        if (i-1) in new_lost:
+            new_lost.remove(i-1)
+        elif (i+1) in new_lost:
+            new_lost.remove(i+1)
     
-    for l in lost_tmp:
-        if (l-1) in reserve:
-            lost.remove(l)
-            reserve.remove(l-1)
-            
-        elif (l+1) in reserve:
-            lost.remove(l)
-            reserve.remove(l+1)
-
-    answer = n - len(lost)
-    
-    return answer
+    return n - len(new_lost)
