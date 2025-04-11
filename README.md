@@ -52,6 +52,29 @@
 | [B2164](https://www.acmicpc.net/problem/2164) | 카드2 | 03.13 |
 | [B1463](https://www.acmicpc.net/problem/1463) | 1로만들기 | 03.18 |
 | [B10814](https://www.acmicpc.net/problem/10814) | 나이순정렬 | 03.18 |
+| [B10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기3 | 03.20 |
+| [B10026](https://www.acmicpc.net/problem/10026) | 적록색약 | 03.27 |
+
+</div>
+</details>
+
+<details>
+<summary><strong> 25.04.01 ~ 25.04.30 </strong></summary>
+<div markdown="1">
+  <br> 
+  
+| 문제 번호 | 문제 이름 | 날짜 |
+|----------|-----------|-----------|
+| [B1389](https://www.acmicpc.net/problem/1389) | 케빈 베이컨의 6단계 법칙 | 04.01 |
+| [B1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 | 04.03 |
+| [P1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 폰켓몬 | 04.07 |
+| [B2839](https://www.acmicpc.net/problem/2839) | 설탕배달 | 04.08 |
+| [P12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | 04.09 |
+| [B11651](https://www.acmicpc.net/problem/11651) | 좌표 정렬하기 2 | 04.10 |
+| [B9461](https://www.acmicpc.net/problem/9461) | 파도반 수열 | 04.10 |
+| [P42748](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | K번째수 | 04.11 |
+| [P42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 가장 큰 수 | 04.11 |
+
 
 </div>
 </details>
